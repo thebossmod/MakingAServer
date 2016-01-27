@@ -14,7 +14,7 @@ Step 2. Navigate inside this new folder and copy over paperspigot-1.8.8.jar to t
 
 Step 3. Copy over the start.bat from the startfiles Folder
 
-Step 4. Make a new folder called "plugins" (without the quotes)
+Step 4. Make a new folder called "plugins" (without the quotes) in the server directory
 
 Step 5. Select the plugins you want from the plugins folder
 	I recommend all the important plugins and any of the optionals
