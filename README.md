@@ -12,7 +12,7 @@ Step 1. Make a directory on your desktop/Working directory called Server (Replac
 
 Step 2. Navigate inside this new folder and copy over paperspigot-1.8.8.jar to the directory from the jar folder
 
-Step 3. Copy over the start.bat from the startfiles Folder
+Step 3. Copy over the start.bat and eula from the startfiles Folder
 
 Step 4. Make a new folder called "plugins" (without the quotes) in the server directory
 
