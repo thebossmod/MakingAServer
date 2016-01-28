@@ -1,5 +1,5 @@
 @echo off
-echo ONLY USE IF RUNNING FROM THE /MakingAServer Directory! If you arn't, CTRL-C
+echo Only USE IF RUNNING FROM THE /MakingAServer Directory! If you arn't, CTRL-C
 pause
 set /p id=Enter Username(Go to C:/Users and find it):
 set Localdir=%cd%
