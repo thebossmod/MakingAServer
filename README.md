@@ -8,7 +8,7 @@ Step 1. In the plugins\Other folder if you want any of those plugins drag them i
 Step 2. Make sure you double click the Installer from the folder, Not a .Zip file
 Step 3.Double Click MakeANormalServerInstaller(TODESKTOP).bat
    Run start.bat in Desktop/ANewMinecraftserver by double left cliking on it.
-Step 8. When it is finished, type in the console op (YourMinecraftUsername).
+Step 8. When it is finished, type in the console "op (YourMinecraftUsername)" without qoute.
   If it has an error, send me the log at superturtle41@gmail.com and I will try to fix it for you
 Step 9. If you are hosting it on your on PC ,Which you should be, You can join with the IP localhost or 127.0.0.0
   Hopefully that is all, If you want more plugins, go to www.curse.com/bukkit-plugins/minecraft
