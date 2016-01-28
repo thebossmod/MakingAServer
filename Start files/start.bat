@@ -1,4 +1,4 @@
 @echo off
 
-java -Xmx16G -Xms4G -jar ServerJar.jar
+java -Xmx6G -Xms1G -jar ServerJar.jar
 pause
