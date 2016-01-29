@@ -10,7 +10,7 @@ pause
 echo Ok lets continue :)
 mkdir "%MCServ%"
 mkdir "%MCServ%\Plugins"
-xcopy /s /h "%Localdir%\Start Files\*" "%MCServ%"
+xcopy /s /h "%Localdir%\StartFiles\*" "%MCServ%"
 xcopy /s /h "%Localdir%\Jars\DND\*" "%MCServ%"
 xcopy /s /h "%Localdir%\Plugins\Important\*" "%MCServ%\Plugins"
 xcopy /s /h "%Localdir%\Plugins\Optional\*" "%MCServ%\Plugins"
